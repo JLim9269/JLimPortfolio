@@ -1,0 +1,1 @@
+function selectTitle(i){document.querySelector('#panel h4').textContent='Title '+(i+1);}
